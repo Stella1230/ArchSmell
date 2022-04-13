@@ -1,0 +1,5 @@
+hbase run in hotspot
+vertexes_recall:  0.23385300668151449
+edges_recall:  0.13517768780926676
+vertexes_pre:  0.7
+vertexes_f1:  0.35058430717863104

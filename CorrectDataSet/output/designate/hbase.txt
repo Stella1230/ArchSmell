@@ -1,0 +1,5 @@
+hbase run in designate
+vertexes_recall:  0.8930957683741648
+edges_recall:  0.8427800269905533
+vertexes_pre:  0.1770419426048565
+vertexes_f1:  0.29550478997789237

@@ -1,0 +1,5 @@
+openjpa run in hotspot
+vertexes_recall:  0.6150289017341041
+edges_recall:  0.6289030118817353
+vertexes_pre:  0.689119170984456
+vertexes_f1:  0.6499694563225412

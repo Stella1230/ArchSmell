@@ -1,0 +1,5 @@
+pdfbox run in arcan
+vertexes_recall:  0.958904109589041
+edges_recall:  0.9245901639344263
+vertexes_pre:  0.0907911802853437
+vertexes_f1:  0.16587677725118483

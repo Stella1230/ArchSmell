@@ -1,0 +1,5 @@
+avro run in hotspot
+vertexes_recall:  0.16666666666666666
+edges_recall:  0.07291666666666667
+vertexes_pre:  0.2631578947368421
+vertexes_f1:  0.2040816326530612

@@ -1,0 +1,5 @@
+ant-ivy run in hotspot
+vertexes_recall:  0.6100917431192661
+edges_recall:  0.4788135593220339
+vertexes_pre:  0.6100917431192661
+vertexes_f1:  0.6100917431192661

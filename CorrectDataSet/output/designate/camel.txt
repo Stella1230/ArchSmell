@@ -1,0 +1,5 @@
+camel run in designate
+vertexes_recall:  0.8439628482972136
+edges_recall:  0.7658777300557434
+vertexes_pre:  0.166789035731767
+vertexes_f1:  0.27853274752222335

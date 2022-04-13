@@ -1,0 +1,5 @@
+openjpa run in arcan
+vertexes_recall:  0.793063583815029
+edges_recall:  0.8270240397899973
+vertexes_pre:  0.5334370139968896
+vertexes_f1:  0.6378428637842865

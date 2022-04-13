@@ -1,0 +1,5 @@
+ant-ivy run in designate
+vertexes_recall:  0.8394495412844036
+edges_recall:  0.8026634382566586
+vertexes_pre:  0.325044404973357
+vertexes_f1:  0.46862996158770803

@@ -1,0 +1,5 @@
+hadoop-b run in hotspot
+vertexes_recall:  0.3611111111111111
+edges_recall:  0.29854368932038833
+vertexes_pre:  0.2181208053691275
+vertexes_f1:  0.2719665271966527

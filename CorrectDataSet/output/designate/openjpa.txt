@@ -1,0 +1,5 @@
+openjpa run in designate
+vertexes_recall:  0.823121387283237
+edges_recall:  0.7848853274385189
+vertexes_pre:  0.20721769499417927
+vertexes_f1:  0.33108579400139504

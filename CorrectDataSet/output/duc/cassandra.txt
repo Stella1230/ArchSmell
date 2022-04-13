@@ -1,0 +1,5 @@
+cassandra run in duc
+vertexes_recall:  0.9948717948717949
+edges_recall:  0.9577942082563154
+vertexes_pre:  0.3227953410981697
+vertexes_f1:  0.48743718592964824

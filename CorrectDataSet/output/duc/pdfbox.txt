@@ -1,0 +1,5 @@
+pdfbox run in duc
+vertexes_recall:  0.9863013698630136
+edges_recall:  0.9606557377049181
+vertexes_pre:  0.05454545454545454
+vertexes_f1:  0.1033740129217516

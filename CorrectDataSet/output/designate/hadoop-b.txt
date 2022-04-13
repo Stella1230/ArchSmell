@@ -1,0 +1,5 @@
+hadoop-b run in designate
+vertexes_recall:  0.8555555555555555
+edges_recall:  0.8244336569579288
+vertexes_pre:  0.03271028037383177
+vertexes_f1:  0.0630114566284779

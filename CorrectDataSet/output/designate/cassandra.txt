@@ -1,0 +1,5 @@
+cassandra run in designate
+vertexes_recall:  0.8358974358974359
+edges_recall:  0.7624768946395564
+vertexes_pre:  0.4034653465346535
+vertexes_f1:  0.5442404006677797

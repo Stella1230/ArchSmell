@@ -1,0 +1,5 @@
+camel run in duc
+vertexes_recall:  0.9578947368421052
+edges_recall:  0.9289043223978799
+vertexes_pre:  0.1401522014857764
+vertexes_f1:  0.2445269896467241

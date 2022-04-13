@@ -1,0 +1,5 @@
+pdfbox run in hotspot
+vertexes_recall:  0.410958904109589
+edges_recall:  0.34098360655737703
+vertexes_pre:  0.19607843137254902
+vertexes_f1:  0.2654867256637168

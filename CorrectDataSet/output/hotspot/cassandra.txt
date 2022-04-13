@@ -1,0 +1,5 @@
+cassandra run in hotspot
+vertexes_recall:  0.5923076923076923
+edges_recall:  0.5539125077017868
+vertexes_pre:  0.7598684210526315
+vertexes_f1:  0.6657060518731989

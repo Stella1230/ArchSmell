@@ -1,0 +1,5 @@
+camel run in hotspot
+vertexes_recall:  0.10959752321981424
+edges_recall:  0.06945079045965458
+vertexes_pre:  0.7023809523809523
+vertexes_f1:  0.18960899839314407

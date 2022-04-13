@@ -1,0 +1,5 @@
+hadoop-b run in duc
+vertexes_recall:  0.9611111111111111
+edges_recall:  0.779126213592233
+vertexes_pre:  0.02373439429276993
+vertexes_f1:  0.04632480921140716

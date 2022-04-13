@@ -1,0 +1,5 @@
+avro run in arcan
+vertexes_recall:  0.6
+edges_recall:  0.46875
+vertexes_pre:  0.06164383561643835
+vertexes_f1:  0.11180124223602482

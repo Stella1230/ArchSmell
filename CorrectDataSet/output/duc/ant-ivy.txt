@@ -1,0 +1,5 @@
+ant-ivy run in duc
+vertexes_recall:  0.944954128440367
+edges_recall:  0.889225181598063
+vertexes_pre:  0.221505376344086
+vertexes_f1:  0.3588850174216027

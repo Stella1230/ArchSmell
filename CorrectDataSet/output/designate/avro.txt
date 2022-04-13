@@ -1,0 +1,5 @@
+avro run in designate
+vertexes_recall:  0.7
+edges_recall:  0.5416666666666666
+vertexes_pre:  0.03206106870229008
+vertexes_f1:  0.061313868613138686

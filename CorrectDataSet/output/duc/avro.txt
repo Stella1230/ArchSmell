@@ -1,0 +1,5 @@
+avro run in duc
+vertexes_recall:  0.9333333333333333
+edges_recall:  0.875
+vertexes_pre:  0.029723991507430998
+vertexes_f1:  0.05761316872427984

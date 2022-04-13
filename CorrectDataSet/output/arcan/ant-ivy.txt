@@ -1,0 +1,5 @@
+ant-ivy run in arcan
+vertexes_recall:  0.7614678899082569
+edges_recall:  0.6937046004842615
+vertexes_pre:  0.38073394495412843
+vertexes_f1:  0.5076452599388379

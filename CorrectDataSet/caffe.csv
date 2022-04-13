@@ -1,0 +1,10 @@
+python file,
+python/caffe/test/test_python_layer.py,UI
+python/caffe/test/test_python_layer_with_param_str.py,UI
+examples/pycaffe/layers/pascal_multilabel_datalayers.py,UI
+python/caffe/__init__.py,UI
+examples/pycaffe/layers/pyloss.py,UI
+examples/pycaffe/layers/pyloss.py,CPC
+examples/pycaffe/layers/pascal_multilabel_datalayers.py,CPC
+python/caffe/test/test_python_layer_with_param_str.py,CPC
+python/caffe/test/test_python_layer.py,CPC

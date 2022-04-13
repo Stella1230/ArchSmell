@@ -1,0 +1,5 @@
+hbase run in duc
+vertexes_recall:  0.9732739420935412
+edges_recall:  0.9442195231668916
+vertexes_pre:  0.19276576973974416
+vertexes_f1:  0.3217967599410898

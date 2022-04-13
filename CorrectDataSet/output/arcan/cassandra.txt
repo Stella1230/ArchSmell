@@ -1,0 +1,5 @@
+cassandra run in arcan
+vertexes_recall:  0.7
+edges_recall:  0.5991990141712877
+vertexes_pre:  0.5663900414937759
+vertexes_f1:  0.6261467889908257

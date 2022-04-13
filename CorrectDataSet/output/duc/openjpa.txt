@@ -1,0 +1,5 @@
+openjpa run in duc
+vertexes_recall:  0.991907514450867
+edges_recall:  0.9581376070737773
+vertexes_pre:  0.15577342047930284
+vertexes_f1:  0.2692609446100738

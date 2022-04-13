@@ -1,0 +1,283 @@
+{
+  "schemaVersion" : "1.0",
+  "name" : "caffe_depends-sdsm",
+  "variables" : [ "D:\\JAVA\\Arcan\\caffe\\examples\\finetune_flickr_style\\assemble_data.py", "D:\\JAVA\\Arcan\\caffe\\examples\\pycaffe\\caffenet.py", "D:\\JAVA\\Arcan\\caffe\\examples\\pycaffe\\layers\\pascal_multilabel_datalayers.py", "D:\\JAVA\\Arcan\\caffe\\examples\\pycaffe\\layers\\pyloss.py", "D:\\JAVA\\Arcan\\caffe\\examples\\pycaffe\\tools.py", "D:\\JAVA\\Arcan\\caffe\\examples\\web_demo\\app.py", "D:\\JAVA\\Arcan\\caffe\\examples\\web_demo\\exifutil.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\__init__.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\classifier.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\coord_map.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\detector.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\draw.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\io.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\net_spec.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\pycaffe.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_coord_map.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_draw.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_io.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_layer_type_list.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_nccl.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_net.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_net_spec.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_python_layer.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_python_layer_with_param_str.py", "D:\\JAVA\\Arcan\\caffe\\python\\caffe\\test\\test_solver.py", "D:\\JAVA\\Arcan\\caffe\\python\\classify.py", "D:\\JAVA\\Arcan\\caffe\\python\\detect.py", "D:\\JAVA\\Arcan\\caffe\\python\\draw_net.py", "D:\\JAVA\\Arcan\\caffe\\python\\train.py", "D:\\JAVA\\Arcan\\caffe\\scripts\\copy_notebook.py", "D:\\JAVA\\Arcan\\caffe\\scripts\\cpp_lint.py", "D:\\JAVA\\Arcan\\caffe\\scripts\\download_model_binary.py", "D:\\JAVA\\Arcan\\caffe\\scripts\\split_caffe_proto.py", "D:\\JAVA\\Arcan\\caffe\\src\\caffe\\test\\test_data\\generate_sample_data.py", "D:\\JAVA\\Arcan\\caffe\\tools\\extra\\extract_seconds.py", "D:\\JAVA\\Arcan\\caffe\\tools\\extra\\parse_log.py", "D:\\JAVA\\Arcan\\caffe\\tools\\extra\\resize_and_crop_images.py", "D:\\JAVA\\Arcan\\caffe\\tools\\extra\\summarize.py" ],
+  "cells" : [ {
+    "src" : 7,
+    "dest" : 14,
+    "values" : {
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 12,
+    "values" : {
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 13,
+    "values" : {
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 35,
+    "dest" : 34,
+    "values" : {
+      "Call" : 4.0,
+      "Import" : 1.0,
+      "Use" : 4.0
+    }
+  }, {
+    "src" : 21,
+    "dest" : 13,
+    "values" : {
+      "Contain" : 6.0
+    }
+  }, {
+    "src" : 12,
+    "dest" : 3,
+    "values" : {
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 22,
+    "dest" : 23,
+    "values" : {
+      "Call" : 3.0,
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 12,
+    "dest" : 2,
+    "values" : {
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 21,
+    "dest" : 2,
+    "values" : {
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 23,
+    "values" : {
+      "Call" : 8.0
+    }
+  }, {
+    "src" : 26,
+    "dest" : 28,
+    "values" : {
+      "Use" : 4.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 10,
+    "values" : {
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 21,
+    "dest" : 3,
+    "values" : {
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 5,
+    "dest" : 6,
+    "values" : {
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Use" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 22,
+    "values" : {
+      "Call" : 24.0
+    }
+  }, {
+    "src" : 31,
+    "dest" : 29,
+    "values" : {
+      "Use" : 2.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 8,
+    "values" : {
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 25,
+    "dest" : 7,
+    "values" : {
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Use" : 2.0
+    }
+  }, {
+    "src" : 12,
+    "dest" : 9,
+    "values" : {
+      "Use" : 5.0
+    }
+  }, {
+    "src" : 25,
+    "dest" : 8,
+    "values" : {
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 3,
+    "values" : {
+      "Call" : 8.0
+    }
+  }, {
+    "src" : 26,
+    "dest" : 10,
+    "values" : {
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 24,
+    "dest" : 20,
+    "values" : {
+      "Call" : 1.0,
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 23,
+    "values" : {
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 21,
+    "dest" : 22,
+    "values" : {
+      "Contain" : 3.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 22,
+    "values" : {
+      "Call" : 3.0
+    }
+  }, {
+    "src" : 23,
+    "dest" : 3,
+    "values" : {
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 14,
+    "dest" : 13,
+    "values" : {
+      "Use" : 5.0
+    }
+  }, {
+    "src" : 23,
+    "dest" : 2,
+    "values" : {
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 28,
+    "dest" : 7,
+    "values" : {
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 21,
+    "dest" : 23,
+    "values" : {
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 2,
+    "values" : {
+      "Call" : 1.0
+    }
+  }, {
+    "src" : 0,
+    "dest" : 36,
+    "values" : {
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 25,
+    "dest" : 12,
+    "values" : {
+      "Call" : 2.0
+    }
+  }, {
+    "src" : 12,
+    "dest" : 23,
+    "values" : {
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 12,
+    "dest" : 22,
+    "values" : {
+      "Contain" : 3.0
+    }
+  }, {
+    "src" : 27,
+    "dest" : 7,
+    "values" : {
+      "Import" : 1.0
+    }
+  }, {
+    "src" : 23,
+    "dest" : 22,
+    "values" : {
+      "Call" : 3.0
+    }
+  }, {
+    "src" : 25,
+    "dest" : 28,
+    "values" : {
+      "Use" : 2.0
+    }
+  }, {
+    "src" : 27,
+    "dest" : 11,
+    "values" : {
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Use" : 1.0
+    }
+  }, {
+    "src" : 22,
+    "dest" : 2,
+    "values" : {
+      "Call" : 3.0,
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 22,
+    "dest" : 3,
+    "values" : {
+      "Call" : 3.0,
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 30,
+    "dest" : 29,
+    "values" : {
+      "Use" : 12.0
+    }
+  }, {
+    "src" : 26,
+    "dest" : 7,
+    "values" : {
+      "Call" : 1.0,
+      "Import" : 1.0
+    }
+  } ]
+}
